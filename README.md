@@ -1,3 +1,3 @@
-this is my first git
-author dheer
 # testing
+this is my first git 
+author dheer 
